@@ -11,7 +11,7 @@ def twitter(event):
 
 
 def instagram(event):
-    webbrowser.open_new_tab('https://www.instagram.com/xappinez/')
+    webbrowser.open_new_tab('https://www.instagram.com/cyberase/')
 
 
 window = tk.Tk()
